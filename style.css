@@ -23,12 +23,12 @@
   font-size: 18px;
   line-height: 1.6;
   max-width: 500px; /* Limita a largura do parágrafo */
-  text-align: justify; /* Justifica o texto */
+  text-align: justify; 
 }
 
-/* Estilização da primeira imagem */
+
 .imagem-destaque {
-  width: 350px; /* Aumenta o tamanho da imagem */
+  width: 350px; 
   height: auto;
   border-radius: 8px;
 }
